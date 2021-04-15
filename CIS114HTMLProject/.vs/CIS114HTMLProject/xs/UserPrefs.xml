@@ -2,8 +2,8 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="CIS114HTMLProject/Views/Home/Index.cshtml">
     <Files>
       <File FileName="CIS114HTMLProject/Startup.cs" Line="26" Column="76" />
-      <File FileName="CIS114HTMLProject/Views/Shared/_Layout.cshtml" Line="18" Column="19" />
-      <File FileName="CIS114HTMLProject/Views/Home/Index.cshtml" Line="20" Column="17" />
+      <File FileName="CIS114HTMLProject/Views/Shared/_Layout.cshtml" />
+      <File FileName="CIS114HTMLProject/Views/Home/Index.cshtml" Line="18" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,6 +15,9 @@
                   <Node name="Index.cshtml" selected="True" />
                 </Node>
                 <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="Images" expanded="True" />
               </Node>
             </Node>
           </Node>
