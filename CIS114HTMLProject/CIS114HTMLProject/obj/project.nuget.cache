@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uR/tcyQmbKgTDL48V0CEyPOsaScaJy7F4aN3vCiew9gcrb/uFeYrIjjyiSaBWqLwv0buLIBlqyFpK5OGi2GLaQ==",
+  "dgSpecHash": "GTWKRD1WCqVUixHUgQaHLVrvG4GFxkwh5zu9gEjc7dAcJFdNs8ImC9n93UnuePaIwjRum1Ounl5bAVUbG33j4Q==",
   "success": true,
-  "projectFilePath": "/Users/rafaelhernandez/Desktop/CIS_114 HTML Project/CIS114HTMLProject/CIS114HTMLProject/CIS114HTMLProject.csproj",
+  "projectFilePath": "/Users/rafaelhernandez/Desktop/CIS114Modules/CIS114HTMLProject/CIS114HTMLProject/CIS114HTMLProject.csproj",
   "expectedPackageFiles": [
     "/Users/rafaelhernandez/.nuget/packages/microsoft.aspnetcore.mvc.razor.extensions/3.1.13/microsoft.aspnetcore.mvc.razor.extensions.3.1.13.nupkg.sha512",
     "/Users/rafaelhernandez/.nuget/packages/microsoft.aspnetcore.mvc.razor.runtimecompilation/3.1.13/microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.13.nupkg.sha512",

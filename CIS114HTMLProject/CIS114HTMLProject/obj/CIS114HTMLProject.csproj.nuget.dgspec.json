@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rafaelhernandez/Desktop/CIS_114 HTML Project/CIS114HTMLProject/CIS114HTMLProject/CIS114HTMLProject.csproj": {}
+    "/Users/rafaelhernandez/Desktop/CIS114Modules/CIS114HTMLProject/CIS114HTMLProject/CIS114HTMLProject.csproj": {}
   },
   "projects": {
-    "/Users/rafaelhernandez/Desktop/CIS_114 HTML Project/CIS114HTMLProject/CIS114HTMLProject/CIS114HTMLProject.csproj": {
+    "/Users/rafaelhernandez/Desktop/CIS114Modules/CIS114HTMLProject/CIS114HTMLProject/CIS114HTMLProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rafaelhernandez/Desktop/CIS_114 HTML Project/CIS114HTMLProject/CIS114HTMLProject/CIS114HTMLProject.csproj",
+        "projectUniqueName": "/Users/rafaelhernandez/Desktop/CIS114Modules/CIS114HTMLProject/CIS114HTMLProject/CIS114HTMLProject.csproj",
         "projectName": "CIS114HTMLProject",
-        "projectPath": "/Users/rafaelhernandez/Desktop/CIS_114 HTML Project/CIS114HTMLProject/CIS114HTMLProject/CIS114HTMLProject.csproj",
+        "projectPath": "/Users/rafaelhernandez/Desktop/CIS114Modules/CIS114HTMLProject/CIS114HTMLProject/CIS114HTMLProject.csproj",
         "packagesPath": "/Users/rafaelhernandez/.nuget/packages/",
-        "outputPath": "/Users/rafaelhernandez/Desktop/CIS_114 HTML Project/CIS114HTMLProject/CIS114HTMLProject/obj/",
+        "outputPath": "/Users/rafaelhernandez/Desktop/CIS114Modules/CIS114HTMLProject/CIS114HTMLProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rafaelhernandez/.config/NuGet/NuGet.Config"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
